@@ -1,0 +1,23 @@
+{
+  "serial_port": "/dev/ttyUSB0",
+  "baud_rate": 921600,
+  "ap_ssid": "RadarX-Net",
+  "ap_password": "radarx123",
+  "wifi_channel": 6,
+  "window_size": 100,
+  "baseline_frames": 50,
+  "confirm_frames": 15,
+  "thresholds": {
+    "empty_multiplier": 2.0,
+    "moving_multiplier": 6.0,
+    "breathing_min_hz": 0.1,
+    "breathing_max_hz": 0.5,
+    "motion_min_hz": 0.5,
+    "motion_max_hz": 3.0
+  },
+  "ui": {
+    "refresh_hz": 10,
+    "colormap": "thermal",
+    "theme": "dark"
+  }
+}

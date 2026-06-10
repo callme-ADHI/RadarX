@@ -132,3 +132,4 @@ STATUS    — print heap/uptime
 | Module not found | `source venv/bin/activate` first |
 | Dashboard blank | Wait 5-10 s for calibration to complete |
 # RadarX
+# RadarX

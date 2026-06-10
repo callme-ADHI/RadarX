@@ -1,0 +1,6 @@
+# RadarX v2 — Python dependencies
+pyserial>=3.5
+numpy>=1.24
+scipy>=1.10
+PyQt5>=5.15
+pyqtgraph>=0.13
